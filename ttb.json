@@ -2,10 +2,10 @@
     "name": "Test Token B",
     "symbol": "TTB",
     "description": "Test Token B (TTB) - A Solana Test Token",
-    "image": "https://github.com/devstackz/testTokenB/blob/main/ttb.png",
+    "image": "https://raw.githubusercontent.com/devstackz/testTokenB/main/ttb.png",
     "properties": {
         "files": [{
-            "uri": "https://github.com/devstackz/testTokenB/blob/main/ttb.png",
+            "uri": "https://raw.githubusercontent.com/devstackz/testTokenB/main/ttb.png",
             "type": "image/png"
         }]
     }
